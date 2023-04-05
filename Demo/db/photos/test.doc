@@ -1,0 +1,10 @@
+{
+   "Hello": "hi",
+   "isMAle": true,
+   "rray": [
+      5,
+      true,
+      "hi"
+   ],
+   "age": 5524.25
+}
