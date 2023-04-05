@@ -1,0 +1,10 @@
+{
+   "testKey": "testString",
+   "age": 45.2,
+   "isMale": true,
+   "array": [
+      5,
+      "true",
+      false
+   ]
+}
